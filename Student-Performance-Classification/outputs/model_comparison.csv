@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-score,CV Accuracy (5-fold)
+Random Forest,0.665,0.6577,0.665,0.6602,0.6475
+SVM,0.655,0.6561,0.655,0.6552,0.6563
+Decision Tree,0.61,0.6078,0.61,0.6078,0.6
+ANN,0.625,0.6019,0.625,0.6042,0.64
+KNN,0.57,0.5576,0.57,0.5611,0.6138
